@@ -295,8 +295,8 @@
 		<Metadata name="CommonModule.РаботаСТорговымОборудованием.Module" id="54d78b72-aa91-4d21-928c-3ebb4f24467d.0" configVersion="5044bb40379d6049a15f8fa13c40153c00000000"/>
 		<Metadata name="CommonModule.РаботаСХранилищемОбщихНастроек" id="d99fb645-3365-4e2e-ae17-097e0979905f" configVersion="fd8fd1ad4003954b8e8eb0a74343b2d200000000"/>
 		<Metadata name="CommonModule.РаботаСХранилищемОбщихНастроек.Module" id="d99fb645-3365-4e2e-ae17-097e0979905f.0" configVersion="fc475ba27b92d0449fb04adb022a1d5000000000"/>
-		<Metadata name="CommonModule.РегламентныеЗаданияАгрегатов" id="30c416e6-7abf-4bbb-ad1f-992342e078ee" configVersion="783dca0e7f067d4e90efc6459fbdd86800000000"/>
-		<Metadata name="CommonModule.РегламентныеЗаданияАгрегатов.Module" id="30c416e6-7abf-4bbb-ad1f-992342e078ee.0" configVersion="cfcc10d44bfacb468b25b8a6429e5a8100000000"/>
+		<Metadata name="CommonModule.РегламентныеЗаданияАгрегатов" id="30c416e6-7abf-4bbb-ad1f-992342e078ee" configVersion="1b530369b2d1b748ac2ab20553ed99cb00000000"/>
+		<Metadata name="CommonModule.РегламентныеЗаданияАгрегатов.Module" id="30c416e6-7abf-4bbb-ad1f-992342e078ee.0" configVersion="2fc1022cf44d084ea6e33e85ce7854f400000000"/>
 		<Metadata name="CommonModule.СервисныеМеханизмы" id="b9ce3eb0-3c68-475c-b624-3211d14e3ee4" configVersion="a9d6dc00382c214fbc001caf8ca8709000000000"/>
 		<Metadata name="CommonModule.СервисныеМеханизмы.Module" id="b9ce3eb0-3c68-475c-b624-3211d14e3ee4.0" configVersion="0d6b21585a9c244abafb709cb91171ab00000000"/>
 		<Metadata name="CommonModule.СистемаВзаимодействияКлиент" id="08dfc68b-da47-4c55-98f9-fb1ec5d9f1df" configVersion="3ba157b10560624d910b79f7a50fec7900000000"/>
