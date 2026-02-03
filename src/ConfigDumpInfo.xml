@@ -47,8 +47,8 @@
 			<Metadata name="Catalog.Встречи.Attribute.Окончание" id="febf35b2-2655-49ce-a95c-a28cfbda9e7f"/>
 		</Metadata>
 		<Metadata name="Catalog.Встречи.Command.ОткрытьКалендарь.CommandModule" id="677e13a7-d382-4862-a616-2c845e6fd734.2" configVersion="2a5cef8d3c0eb541bb9a88fdd3eecb6800000000"/>
-		<Metadata name="Catalog.Встречи.Form.Календарь" id="ccd0c0ed-03c6-47a9-b327-a3caaa6ee3a7" configVersion="74f3b1076be15046ae54e6af408b83b900000000"/>
-		<Metadata name="Catalog.Встречи.Form.Календарь.Form" id="ccd0c0ed-03c6-47a9-b327-a3caaa6ee3a7.0" configVersion="c6d637295168994d96155eef65d91cf100000000"/>
+		<Metadata name="Catalog.Встречи.Form.Календарь" id="ccd0c0ed-03c6-47a9-b327-a3caaa6ee3a7" configVersion="90f6655096ef394d885bb5949628096600000000"/>
+		<Metadata name="Catalog.Встречи.Form.Календарь.Form" id="ccd0c0ed-03c6-47a9-b327-a3caaa6ee3a7.0" configVersion="c34cb18166ab98418e328eb115db462800000000"/>
 		<Metadata name="Catalog.Встречи.Form.ФормаСписка" id="e03ad8f4-4a62-42da-9fee-09682e54b7b8" configVersion="06bfa9c1add1d94aa1ae799128f0608c00000000"/>
 		<Metadata name="Catalog.Встречи.Form.ФормаСписка.Form" id="e03ad8f4-4a62-42da-9fee-09682e54b7b8.0" configVersion="33980674dc522442bee95912f6c4733300000000"/>
 		<Metadata name="Catalog.Встречи.Form.ФормаЭлемента" id="018329b9-ae9d-4cd8-9043-6f17914146fd" configVersion="a6bfff83e2622d4a8abe9ec452f3a39c00000000"/>
