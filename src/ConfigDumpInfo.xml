@@ -850,8 +850,8 @@
 		<Metadata name="Role.МенеджерПоЗакупкам.Rights" id="3a9ab366-35de-49c7-99d4-2eaeac7d52ed.0" configVersion="b047db3dc9fb054f9099e665c5532c7400000000"/>
 		<Metadata name="Role.МенеджерПоПродажам" id="ddd0b0c8-cd6a-49b3-87a5-2714a8a3a09a" configVersion="58da2321bbc0c54d94bdd45369091f4800000000"/>
 		<Metadata name="Role.МенеджерПоПродажам.Rights" id="ddd0b0c8-cd6a-49b3-87a5-2714a8a3a09a.0" configVersion="6a06d556ea918648a06dc7fc9d03836a00000000"/>
-		<Metadata name="Role.ПользовательБот" id="c158eca3-d9b5-48ae-9ac3-801cc0961f8e" configVersion="610175d9fe257f4da594c6e17fa2d86600000000"/>
-		<Metadata name="Role.ПользовательБот.Rights" id="c158eca3-d9b5-48ae-9ac3-801cc0961f8e.0" configVersion="ca14bc3c64fca64aa80a22bf231b853600000000"/>
+		<Metadata name="Role.ПользовательБот" id="c158eca3-d9b5-48ae-9ac3-801cc0961f8e" configVersion="45649ab0806688449a6f28857015e7f400000000"/>
+		<Metadata name="Role.ПользовательБот.Rights" id="c158eca3-d9b5-48ae-9ac3-801cc0961f8e.0" configVersion="3745e0314ab0114788fceae68ed0c52a00000000"/>
 		<Metadata name="Role.Продавец" id="6ed0c16c-de39-4390-ad44-11798441bf76" configVersion="577c540b9f091744beceb852f997a28100000000"/>
 		<Metadata name="Role.Продавец.Rights" id="6ed0c16c-de39-4390-ad44-11798441bf76.0" configVersion="ca499c573c99b244b5f817d005b3160a00000000"/>
 		<Metadata name="ScheduledJob.НеотработанныеЗаказы" id="a35af27e-3df5-4f9a-8261-7a0b31563f59" configVersion="3244b2ad46b35749b778c679f065acd800000000"/>
